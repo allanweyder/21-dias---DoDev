@@ -14,5 +14,5 @@ ano = 2024 - idade
 let imc = 0
 imc = peso / altura * altura
 
-console.log("Olá " + nome + ", você tem " + idade + " anos, nasceu em " + ano + ", tem " + altura + " de altura e pesa " + peso + "kg. Seu IMC é " + imc + "Kg/m²")
+console.log("Olá " + nome + ", você tem " + idade + " anos, nasceu em " + ano + ", tem " + altura + " de altura e pesa " + peso + "kg. Seu IMC é " + imc + "Kg/m².S")
 
