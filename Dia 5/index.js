@@ -4,7 +4,7 @@ let num2 = parseInt(prompt("Escolha o segundo número"))
 let opcao = parseInt(prompt("\nEscolha a operação que deseja executar:" + "\n2 = + \n3 = - \n4 = * \n5 = /"))
 
 console.log("Aqui está a resposta:")
-// Começando os cases
+// Começando o Switch Case
 switch(opcao) {
     case 1:
         console.log(num1 + " + " + num2 + " = " + (num1 + num2))
